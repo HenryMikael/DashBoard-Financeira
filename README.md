@@ -1,58 +1,26 @@
-💰 Dashboard Financeira
+# 📊 Dashboard Financeiro
 
-A Dashboard Financeira é uma aplicação full-stack para gerenciar e visualizar dados financeiros.
-O front-end em Angular exibe gráficos, tabelas e indicadores, enquanto o back-end em Python fornece APIs para armazenar e processar receitas, despesas e métricas financeiras.
+Uma aplicação web interativa para visualização e análise de dados financeiros, desenvolvida para fornecer insights claros e acionáveis sobre a saúde financeira de empresas ou investimentos pessoais.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
-Fornecer uma plataforma completa para controle financeiro, permitindo que usuários acompanhem suas finanças de forma intuitiva e dinâmica.
+Este projeto visa criar uma ferramenta intuitiva que permite aos usuários monitorar métricas financeiras em tempo real, visualizar tendências e tomar decisões baseadas em dados.
 
-🧩 Funcionalidades
+## ✨ Funcionalidades
 
-Front-end (Angular)
+- 📈 Visualização de métricas-chave (KPIs)
+- 💰 Acompanhamento de receitas, despesas e lucro líquido
+- 📊 Gráficos interativos de desempenho financeiro
+- 🔍 Filtros por período e categorias
+- 📱 Design responsivo para acesso em diferentes dispositivos
+- 📤 Exportação de relatórios em PDF/Excel
 
-Dashboard com gráficos e indicadores interativos
+## 🛠️ Stack Tecnológica
 
-Controle visual de receitas e despesas
+- **Frontend:** Angular
+- **Backend:** Python, Flask, Flask-SQLAlchemy
+- **Banco de Dados:** MySQL
 
-Layout responsivo e moderno
+## 🚀 Como Executar
 
-Filtragem e organização de dados
-
-Back-end (Python, planejado)
-
-API REST em Python (Flask ou FastAPI)
-
-CRUD de usuários, contas, receitas e despesas
-
-Autenticação de usuários
-
-Agregação de dados para métricas e gráficos
-
-🛠 Tecnologias
-
-Front-end:
-
-Angular 15+
-
-TypeScript
-
-SCSS
-
-HTML5
-
-Back-end (futuro):
-
-Python 3.x
-
-Flask ou FastAPI
-
-SQLite/PostgreSQL
-
-JWT para autenticação
-
-DevOps / Versionamento:
-
-Git / GitHub
-
-Docker (opcional)
+[Instruções de instalação...]
