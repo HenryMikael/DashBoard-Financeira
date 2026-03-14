@@ -29,7 +29,7 @@
 
         .logo-text {
             margin-left: 1.5rem;
-            font: 24px;
+            font-size: 24px;
             font-weight: 700;
             color: var(--primary-color);
         }
@@ -83,7 +83,7 @@
                 width: 2rem;
                 min-width: 2rem;
                 margin: 0 0.5rem;
-                align-items: center;
+                text-align: center;
             }
 
             .sidenav-link-text {
@@ -97,5 +97,14 @@
             background-color: var(--primary-color);
             color: var(--secondary-color);
         }
+    }
+}
+
+.active {
+    background-color: var(--primary-color);
+
+    .sidenav-link-icon,
+    .sidenav-link-text {
+        color: var(--secondary-color);
     }
 }
